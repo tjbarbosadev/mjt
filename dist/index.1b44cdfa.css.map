@@ -1,0 +1,1 @@
+{"mappings":"ACAA;;;;AAGI;;;;AAME;;;;;;;AAME;;;;;;AAMA","sources":["styles/style.scss","styles/header.scss"],"sourcesContent":["@import 'header.scss';\n@import 'carousel.scss';",null],"names":[],"version":3,"file":"index.1b44cdfa.css.map","sourceRoot":"/__parcel_source_root/"}

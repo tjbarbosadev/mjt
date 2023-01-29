@@ -1,0 +1,29 @@
+.navbar {
+  background-color: rgba(1,0,40,1);
+  .navbar-item {
+    img {
+      max-height: 3.75rem;
+    }
+  }
+  .navbar-brand {
+    a {
+      &.navbar-item {
+        display: flex;
+        align-items: flex-end;
+        gap: 5px;
+        color: #FFF;
+
+        .brand {
+          font-family: "Archivo Black", sans-serif;
+          font-size: 36px;
+          line-height: 36px;
+        }
+
+        &:hover,
+        &:active {
+          color: #FFF;
+        }
+      }
+    }
+  }
+}

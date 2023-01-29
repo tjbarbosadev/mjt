@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #010028;
+}
+
+.navbar .navbar-item img {
+  max-height: 3.75rem;
+}
+
+.navbar .navbar-brand a.navbar-item {
+  color: #fff;
+  align-items: flex-end;
+  gap: 5px;
+  display: flex;
+}
+
+.navbar .navbar-brand a.navbar-item .brand {
+  font-family: Archivo Black, sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+}
+
+.navbar .navbar-brand a.navbar-item:hover, .navbar .navbar-brand a.navbar-item:active {
+  color: #fff;
+}
+
+/*# sourceMappingURL=index.1b44cdfa.css.map */
