@@ -1,5 +1,5 @@
 .navbar {
-  background-color: #010028;
+  background-color: #010028b3;
 }
 
 .navbar .navbar-item img {
@@ -8,6 +8,7 @@
 
 .navbar .navbar-brand a.navbar-item {
   color: #fff;
+  background-color: #010028;
   align-items: flex-end;
   gap: 5px;
   display: flex;

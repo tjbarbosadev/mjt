@@ -1,5 +1,5 @@
 .navbar {
-  background-color: rgba(1,0,40,1);
+  background-color: rgba(1,0,40,.7);
   .navbar-item {
     img {
       max-height: 3.75rem;
@@ -12,6 +12,7 @@
         align-items: flex-end;
         gap: 5px;
         color: #FFF;
+        background-color: rgba(1,0,40,1);;
 
         .brand {
           font-family: "Archivo Black", sans-serif;
